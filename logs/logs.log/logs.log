@@ -1,0 +1,43 @@
+2024-03-30 20:50:07,469 INFO p.MainUI [AWT-EventQueue-0] Selected item: Kraków, Wielicka 21 PKN ORLEN na indexie: 1
+2024-03-30 20:50:07,471 INFO p.MainUI [AWT-EventQueue-0] Link do wybranej stacji: /stacje-paliw/pkn-orlen/pkn-orlen-wielicka-21-krakow/
+2024-03-30 20:50:07,472 INFO p.ScrapingStation [AWT-EventQueue-0] Tutaj jest adres: https://www.autocentrum.pl/stacje-paliw/pkn-orlen/pkn-orlen-wielicka-21-krakow/
+2024-03-30 20:50:08,589 INFO p.ScrapingStation [AWT-EventQueue-0] Tutaj znajduje sie zmienna prices: <div class="station-detail-wrapper pb text-center">
+ <h2 class="fuel-header primary-header">95</h2>
+ <div class="price">
+  7,24 <span>zł</span>
+ </div>
+ <div class="date">
+  dzisiaj
+ </div>
+</div>
+<div class="station-detail-wrapper pbp text-center premium">
+ <h2 class="fuel-header primary-header">Verva 98</h2>
+ <div class="price">
+  6,54 <span>zł</span>
+ </div>
+ <div class="date">
+  dawno temu
+ </div>
+</div>
+<div class="station-detail-wrapper on text-center">
+ <h2 class="fuel-header primary-header">Ekodiesel</h2>
+ <div class="price">
+  6,69 <span>zł</span>
+ </div>
+ <div class="date">
+  13 dni temu
+ </div>
+</div>
+<div class="station-detail-wrapper lpg text-center">
+ <h2 class="fuel-header primary-header">LPG</h2>
+ <div class="price">
+  2,54 <span>zł</span>
+ </div>
+ <div class="date">
+  dawno temu
+ </div>
+</div>
+2024-03-30 20:50:08,590 INFO p.ScrapingStation [AWT-EventQueue-0] Tutaj jest tytuł: 95 oraz cena: 7,24 zł
+2024-03-30 20:50:08,590 INFO p.ScrapingStation [AWT-EventQueue-0] Tutaj jest tytuł: Verva 98 oraz cena: 6,54 zł
+2024-03-30 20:50:08,590 INFO p.ScrapingStation [AWT-EventQueue-0] Tutaj jest tytuł: Ekodiesel oraz cena: 6,69 zł
+2024-03-30 20:50:08,590 INFO p.ScrapingStation [AWT-EventQueue-0] Tutaj jest tytuł: LPG oraz cena: 2,54 zł
